@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "GUI.java",
+            "request": "launch",
+            "mainClass": "GUI",
+            "vmArgs": "--module-path \"C:\\Users\\Path\\To\\Your\\File\\javafx-sdk-23.0.2\\lib\" --add-modules javafx.controls,javafx.base"
+        }
+    ]
+
+}
